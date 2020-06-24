@@ -1,0 +1,30 @@
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.deps.json
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.runtimeconfig.json
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.runtimeconfig.dev.json
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.dll
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.pdb
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.csprojAssemblyReference.cache
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.csproj.CoreCompileInputs.cache
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.RazorAssemblyInfo.cache
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.RazorAssemblyInfo.cs
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.AssemblyInfoInputs.cache
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.AssemblyInfo.cs
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.RazorTargetAssemblyInfo.cache
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.dll
+C:/Users/noopp/Documents/Visual Studio 2017/Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.pdb
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.deps.json
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.runtimeconfig.json
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.runtimeconfig.dev.json
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.dll
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/bin/Debug/netcoreapp2.1/eCommerceNET.pdb
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.csprojAssemblyReference.cache
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.RazorAssemblyInfo.cache
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.RazorAssemblyInfo.cs
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.AssemblyInfoInputs.cache
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.AssemblyInfo.cs
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.RazorTargetAssemblyInfo.cache
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.dll
+/Users/dante/Documents/Conestoga/Level 2/Palevo/Level2Projects/eCommerceNET/eCommerceNET/obj/Debug/netcoreapp2.1/eCommerceNET.pdb
